@@ -1,2 +1,2 @@
 # StPaulsSchoolComputing
-Schoolwork and homework for school
+Classwork and homework repository.
