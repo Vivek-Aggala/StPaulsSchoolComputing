@@ -1,2 +1,2 @@
 # StPaulsSchoolComputing
-Schoolwork and homework for school
+Schoolwork and homework for school.
