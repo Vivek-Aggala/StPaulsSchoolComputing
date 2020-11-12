@@ -12,7 +12,7 @@ namespace reverse_polish_lol
         {
             /* code works by inputing each element of stack on different lines-Vivek*/
             Console.WriteLine("Hello World!");
-            var stack = new Stack<double>();
+            var stack = new Stack<T>();
             while (true)
             {
                 var input = Console.ReadLine();
